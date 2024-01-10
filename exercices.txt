@@ -1,7 +1,0 @@
-Exercice Resto Review
-
-Créer plusieurs fichiers test pour chaque function / partie :
-
--*test_add_reviex.py*
--*test_get_review.py*
--*test_update_review.py*
